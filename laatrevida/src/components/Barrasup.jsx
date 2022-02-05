@@ -22,7 +22,7 @@ const Barrasup = () => {
                                 <a class="nav-link" href="#">Contact</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Location</a>
+                                <a class="nav-link" href="#">Location!!</a>
                             </li>
                         </ul>
                     </div>
